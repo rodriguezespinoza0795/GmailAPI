@@ -11,3 +11,4 @@
 	* `source venv/bin/activate`
 3. Install dependencies: `pip install -r requirements.txt`
 4. [Create Credentials](https://developers.google.com/workspace/guides/create-credentials "Create Credentials") 
+5. Execute file:  `py quickstart.py`
