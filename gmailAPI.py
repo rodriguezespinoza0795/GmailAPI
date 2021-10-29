@@ -2,7 +2,7 @@ from email.mime.text import MIMEText
 from base64 import urlsafe_b64decode, urlsafe_b64encode
 
 def build_message(destination, obj, body):
-    message = MIMEText(body)
+    message = MIMEText(body, 'html')
     message['to'] = destination
     message['from'] = 'example@gmail.com'
     message['subject'] = obj
