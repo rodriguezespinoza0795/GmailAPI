@@ -12,3 +12,5 @@
 3. Install dependencies: `pip install -r requirements.txt`
 4. [Create Credentials](https://developers.google.com/workspace/guides/create-credentials "Create Credentials") 
 5. Execute file:  `py quickstart.py`
+
+Puedes revisar conceptos básicos de Python en este [Notebook](https://colab.research.google.com/drive/1FZrk1hRIQNxssTlZbkwKl_1EXTKhe3c9?usp=sharing).
